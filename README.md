@@ -1,7 +1,7 @@
 
 <h1>Site Simples</h1>
 
-<p>Projeto de um site criado durante o curso de <strong>Git</strong> e <strong>Github</strong> para aprendizado de <strong>Hospedagem</strong> no <strong>GitHub Pages</strong>.</p><br><br>
+<p>Projeto de um site criado durante o curso de <strong>Git</strong> e <strong>Github</strong> para aprendizado de <strong>Hospedagem</strong> no <strong>GitHub Pages</strong>.</p>
 
 <h2><a href="https://yasminelima.github.io/projeto-site/" target="_blank">Link para Acesso</a></h2><br>
 
