@@ -9,6 +9,6 @@
     <tr>
         <td>
         <h3>Git e Github</h3>
-        <p>📺  Curso em Vídeo <br><br> ⏰ Carga Horária: 20h<br><br> 📜 Certificado: <a href="https://www.cursoemvideo.com/validacao-de-certificado/?codigo=8CB0-A18C-9" target="_blank">8CB0-A18C-9</a></p>
+        <p>📺  Curso em Vídeo <br><br> ⏰ Carga Horária: 20h<br><br> 📜 Certificado: <a href="https://www.cursoemvideo.com/validacao-de-certificado/?codigo=78CB0-A18C-9" target="_blank">78CB0-A18C-9</a></p>
         </td>
     </tr>
